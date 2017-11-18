@@ -1,3 +1,5 @@
+# Nothing to update here for g3ds
+
 LOCAL_PATH := $(call my-dir)
 
 BUMP := $(LOCAL_PATH)/bump.py
