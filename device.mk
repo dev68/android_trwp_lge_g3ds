@@ -1,3 +1,3 @@
 PRODUCT_COPY_FILES += \
-    device/lge/d855/kernel:kernel \
-    device/lge/d855/dtb:dtb
+    device/lge/g3ds/kernel:kernel \
+    device/lge/g3ds/dtb:dtb
